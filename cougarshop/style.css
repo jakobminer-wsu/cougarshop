@@ -10,3 +10,23 @@
   box-shadow:none;
   border: none;
 }
+
+.grid.footer {
+  padding-top: 50px;
+  background-color: #292929;
+}
+
+.borderless.vertical.inverted.menu {
+  background-color: #292929;
+}
+
+.borderless.menu.bottom {
+  box-shadow: none;
+  border: none;
+  background-color: #292929;
+}
+
+.centered.grid.container.copyright {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
